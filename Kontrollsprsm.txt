@@ -1,0 +1,23 @@
+LAB 1
+
+Oppgave 0
+
+JavaScript er et programmeringsspråk som brukes i alle moderne søkemotorer. JavaScript kan bli brukt for å skape dynamikk i en webside.
+
+Oppgave 1
+
+ID og Class er to elementer som brukes i forskjellige anledninger.
+ID brukes til noe som du antar at du ikke bruker ofte eller skal bare bruke en gang. Mens Classes brukes hvis det er noe som blir brukt opp til flere ganger. Dette kan f.eks vere farger på tekst, bakgrunn eller font. 
+
+Oppgave 2
+
+I deloppgave 0 er det en ganske grei oversikt over alle programmeringsspråk. Hvis de blir fordelt i farger er det lettere å finne fram til det språket du eventuelt søker. Problemer du kan støte på er blant annet at noen farger kan vere vanskelig å lese eller se i bakgrunnen. I deloppgave 1 støter vi på en meny som har en god oversikt hvis det ikke er for mange elementer å ta i betrakning. Hvis det hadde vert hundre elementer i en slik meny hadde det blitt betydelig mye vanskeligere å finne fram eller ha oversikt kontra deloppgave 0. «Rullegardina» er veldig kompremert og lite rom for en så stor liste. I deloppgave 0 er det mer oversiktelig og kan fungere i min mening bedre hvis det kommer til en stor liste med programmeringsspråk. Deloppgave 1 ser mer ryddig og «profesjonelt» ut, men ikke nødvendigvis mer komfortabelt for øyet.
+
+Deloppgave 3
+
+I denne lista har Wikipedia satt opp punkter med linker som fører til de forskjellige programmeringsspråkene. De er satt opp etter alfabetisk rekkfølge noe som gjør det lett å finne fram i tilfelle folk er på utgikk etter et spesifikt program. Det er også en liste på toppen av siden som fører deg rett til seksjonen du leter etter.
+
+Deloppgave 4
+
+Div blir brukt for å dele f.eks nettsiden opp i seksjoner  eksempel er meny eller bannere.
+Span er derimot noe som kan bli plassert i forskjellige områder midt i teksten om du så ønsker. For eksempel for å forandre farge på tekst eller størrelse på font. 
